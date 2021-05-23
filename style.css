@@ -1,0 +1,50 @@
+@import url(fonts.css);
+
+html 
+{
+    background-color: rgb(255, 255, 255);
+    font-family: "Roboto";
+}
+
+h1
+{
+    font-family: "Roboto Black";
+    font-size: 40px;
+}
+
+#menu 
+{
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    align-items: center;
+    overflow: hidden;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#menu a
+{
+    color: rgb(26, 201, 220);
+    text-decoration: none;
+    font-family: "Roboto Bold";
+    padding: 14px 16px;
+}
+
+#menu a:hover
+{
+    background-color: rgb(213, 213, 213);
+    color: black;
+}
+
+a
+{
+    color: rgb(26, 201, 220);
+    text-decoration: none;
+    font-family: "Roboto Regular";
+}
+
+a:hover
+{
+    color: rgb(23, 74, 215);
+    text-decoration: none;
+}
