@@ -16,14 +16,15 @@
 
 <body>
     <div class="top-nav">
-        <a class="active" href="#">Home</a>
-        <a href="projects.html">Projects</a>
+        <a href="../index.html">Home</a>
+        <a href="../projects.html">Projects</a>
+        <a class="active" href="index.html">Blog</a>
     </div>
 
-    <div id="content" align="center">
+    <div id="content" align="center" style="padding: 20px;">
         <script>
             document.getElementById('content').innerHTML =
-                marked.parse(readTextFile("27-09-2022.md"));
+                marked.parse(readTextFile(""));
         </script>
     </div>
 </body>
