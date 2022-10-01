@@ -26,3 +26,7 @@ body {
     background-color: black;
     color: white;
 }
+
+.content {
+    max-width: 50%;
+}
