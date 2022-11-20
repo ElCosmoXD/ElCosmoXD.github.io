@@ -1,16 +1,16 @@
 {
     "games": {
-        "sw_tdb": [
+        "sw_tdb": {
             "1.0.1",
             ""
-        ],
-        "sw_origins": [
+        },
+        "sw_origins": {
             "1.2.0",
             ""
-        ]
-        "sw_after_origins": [
+        }
+        "sw_after_origins": {
             "1.0.1", 
             ""
-        ]
+        }
     }
 }
