@@ -2,15 +2,15 @@
     "games": {
         "sw_tdb": {
             "version": "1.0.1",
-            "w64_download_link": "https://download1523.mediafire.com/dr2r9s7b3p9g/j2sj5so4iqdolsn/The+Duck+Bomb+%28Windows+64+bits%29.zip"
+            "w64_download_link": ""
         },
         "sw_origins": {
             "version": "1.2.0",
-            "w64_download_link": "https://download948.mediafire.com/xo47wjd0drvg/qd0qxmqqryetkai/ShapeWorld+Origins+%28Windows+64+bits%29.zip"
+            "w64_download_link": ""
         },
         "sw_after_origins": {
             "version" :"1.1.2", 
-            "w64_download_link": "http://download1480.mediafire.com/193nuojezzeg/9x3qp2f3spwwrem/ShapeWorld+After+Origins+%28Windows+64+bits%29.zip"
+            "w64_download_link": "https://github.com/ElCosmoXD/ElCosmoXD.github.io/blob/main/updates/ShapeWorld%20After%20Origins%20(Windows%2064%20bits).zip"
         }
     }
 }
