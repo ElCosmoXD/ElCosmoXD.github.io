@@ -6,6 +6,7 @@ body {
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 
 table, th, td {
@@ -17,11 +18,12 @@ table, th, td {
     margin: auto;
     background-color: rgba(240, 240, 240, 200);
     height: 100%;
-    position: absolute;
+    position: fixed;
     top:0px;
     right:0px;
     bottom:0px;
     left:0px;
+    overflow: auto;
 }
 
 .blog-redirect {
@@ -35,5 +37,14 @@ table, th, td {
     border-radius: 10px;
     border: none;
     background-color: rgb(247, 92, 3);
+    color: white;
+}
+
+#blog-back:hover {
+    min-height: 40px;
+    min-width: 100px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(187, 69, 0);
     color: white;
 }
