@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "games": {
         "sw_tdb": {
@@ -17,3 +18,24 @@
         }
     }
 }
+=======
+{
+    "games": {
+        "sw_tdb": {
+            "version": "1.0.1",
+            "w64_download_link": ""
+        },
+        "sw_origins": {
+            "version": "1.2.0",
+            "w64_download_link": ""
+        },
+        "sw_after_origins": {
+            "version" :"1.2.1",
+            "w64_download_link": "https://elcosmoxd.github.io/updates/ShapeWorld%20After%20Origins/ShapeWorld%20After%20Origins%20(Windows%2064%20bits).zip",
+            "background": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/updates/ShapeWorld%20After%20Origins/ShapeWorld%20After%20Origins.png",
+            "launcher_version": "0.1.0",
+            "launcher_download_w64": "https://elcosmoxd.github.io/updates/ShapeWorld%20After%20Origins/Launcher_w64.zip"
+        }
+    }
+}
+>>>>>>> 49b703cc9e6eeb3f7d75a61b697b1fc3c03a88b4
