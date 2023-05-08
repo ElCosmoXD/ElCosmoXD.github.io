@@ -3,7 +3,7 @@
 */
 function readBlogEntry(url) {
     var queryStart = url.indexOf("?") + 1,
-        queryEnd   = url.indexOf("#") + 1 || url.length + 1,
+        queryEnd = url.indexOf("#") + 1 || url.length + 1,
         query = url.slice(queryStart, queryEnd - 1),
         pairs = query.replace(/\+/g, " ").split("&"),
         parms = {}, i, n, v, nv;
@@ -26,22 +26,22 @@ function readBlogEntry(url) {
 function readFile(url) {
     var result = null;
     var xmlhttp = new XMLHttpRequest();
-    
+
     xmlhttp.open("GET", url, false);
     xmlhttp.send();
-    
-    if (xmlhttp.status==200) {
+
+    if (xmlhttp.status == 200) {
         result = xmlhttp.responseText;
     }
 
     return result;
 }
 
-function blogMain() {
+function blogMain(prefix = "") {
     var converter = new showdown.Converter();
 
     var blogEntry = readBlogEntry(document.URL);
-    var blogUrl = document.location.origin + "/blog/" + blogEntry["blog"];
+    var blogUrl = document.location.origin + "/blog/" + prefix + blogEntry["blog"];
     var text = readFile(blogUrl);
     var html = converter.makeHtml(text);
 
