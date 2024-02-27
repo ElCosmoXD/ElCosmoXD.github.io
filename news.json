@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "date": "27-02-2024",
+      "title": "A new version is coming!?",
+      "description": "Hi!, It's been a while since the last announcement for ShapeWorld: After Origins, in this time we're introducing to you the 2.0.0 version of ShapeWorld: After Origins...",
+      "image": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/blog/news/swao/img/27-02-2024.png",
+      "url": "https://elcosmoxd.github.io/blog/news/swao/blog.html?blog=27-02-2024.md"
+    },
+    {
       "date": "02-08-2023",
       "title": "New Update released! The version 1.4.0!",
       "description": "Hello!, It's been a while since the last game update, but here we are again!...",
