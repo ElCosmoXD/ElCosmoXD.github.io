@@ -7,7 +7,7 @@
         "sw_origins": {
             "version": "1.2.1",
             "w64_download_link": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/updates/ShapeWorld%20Origins/ShapeWorld%20Origins%20(Windows%2064%20bits).zip",
-            "background": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/updates/ShapeWorld%20Origins/ShapeWorld%20Origins.png",
+            "background": "https://github.com/ElCosmoXD/ElCosmoXD.github.io/blob/main/updates/ShapeWorld%20Origins/Background.png",
             "launcher_version": "1.0.0",
             "launcher_download_w64": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/updates/ShapeWorld%20Origins/Launcher_w64.zip"
         },
