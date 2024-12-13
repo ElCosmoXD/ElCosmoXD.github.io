@@ -17,6 +17,13 @@
             "background": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/updates/ShapeWorld%20After%20Origins/ShapeWorld%20After%20Origins.png",
             "launcher_version": "1.0.2",
             "launcher_download_w64": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/main/updates/ShapeWorld%20After%20Origins/Launcher_w64.zip"
+        },
+        "swfl": {
+            "version": "1.0.0",
+            "w64_download_link": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/refs/heads/main/updates/ShapeWorld%20FightLand/ShapeWorld%20FightLand%20(Windows%2064%20bits).zip",
+            "background": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/refs/heads/main/updates/ShapeWorld%20FightLand/ShapeWorld%20FightLand.png",
+            "launcher_version": "1.0.0",
+            "launcher_download_w64": "https://raw.githubusercontent.com/ElCosmoXD/ElCosmoXD.github.io/refs/heads/main/updates/ShapeWorld%20FightLand/Launcher_w64.zip"
         }
     }
 }
