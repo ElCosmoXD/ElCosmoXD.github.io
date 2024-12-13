@@ -1,0 +1,6 @@
+{
+    "blog_folder": "private",
+    "blog_template": "template.html",
+    "blog_output": "public",
+    "blog_template_replace": "<!--REPLACE THIS-->"
+}
