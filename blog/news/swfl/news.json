@@ -1,6 +1,12 @@
 {
     "articles": [
         {
+            "title": "The new zones + hiatus",
+            "description": "Hello! After the release of ShapeWorld: FightLand, the development of the game has been pretty slow but here we are to show you the new zone: Winter.",
+            "imageUrl": "https://elcosmoxd.github.io/blog/news/swfl/img/07-02-2025.png",
+            "url": "http://elcosmoxd.github.io/blog/news/swfl/public/07-02-2025.md.html"
+        },
+        {
             "title": "ShapeWorld: FightLand - Version 1.0.0",
             "description": "Hello! After one year of development, ShapeWorld: FightLand has been finally released as an Early Access! The development of this game was pretty complicated but we managed to create our best game at this moment",
             "imageUrl": "https://elcosmoxd.github.io/blog/news/swfl/img/13-12-2024.png",
